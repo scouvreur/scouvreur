@@ -1,5 +1,7 @@
-I young team playing data engineer. I have a passion for big data, real-time processing and distributed systems.
+A young team playing big data engineer at Cloudflare.
 
-My experience has been in fraud detection and computer vision for medical images.
+I have a passion for big data, real-time processing and distributed systems.
 
-I am an open-source contributor to scikit-learn and Optuna.
+My experience has been in cyber security, bot and fraud detection, as well as computer vision for medical images.
+
+I am a contributor to open-source data engineering projects.
