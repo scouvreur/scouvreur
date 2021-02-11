@@ -1,4 +1,4 @@
-A young team playing big data engineer at Cloudflare.
+A young team playing data engineer at Cloudflare.
 
 I have a passion for big data, real-time processing and distributed systems.
 
